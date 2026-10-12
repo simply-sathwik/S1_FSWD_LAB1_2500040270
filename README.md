@@ -1,16 +1,131 @@
-# React + Vite
+# 🚌 S1_FSWD_LAB1_2500040270 — Bus Information System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Overview
 
-Currently, two official plugins are available:
+The **Bus Information System** is a React-based web application developed to display and manage bus schedule information. It provides users with a simple interface to view bus numbers, routes, driver names, and departure timings.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project is developed as part of the Full Stack Web Development (FSWD) Lab.
 
-## React Compiler
+## 🎯 Objectives
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Display bus numbers and their routes.
+- Show driver names and departure timings.
+- Provide a clean and user-friendly interface.
+- Implement bus search functionality.
+- Practice frontend development using React.
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🚌 **Bus Information:** Displays bus numbers and routes.
+- 👨‍✈️ **Driver Details:** Shows the names of assigned drivers.
+- 🕒 **Departure Schedule:** Displays scheduled departure times.
+- 🔍 **Search Functionality:** Search buses by bus number, route, or driver name.
+- 📱 **Responsive Design:** Adapts to different screen sizes.
+- ⚡ **Fast Development:** Uses Vite for a fast development experience.
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git and GitHub
+
+## 📂 Project Structure
+
+```text
+S1_FSWD_LAB1_2500040270/
+├── public/
+├── src/
+│   ├── app.jsx
+│   ├── app.css
+│   ├── index.css
+│   └── main.jsx
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── .gitignore
+└── README.md
+```
+
+*Note: The filenames shown above may differ slightly depending on your project setup.*
+
+## ⚙️ Installation and Setup
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+Install the following software:
+
+- [Node.js](https://nodejs.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/)
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/simply-sathwik/S1_FSWD_LAB1_2500040270.git
+```
+
+### Step 2: Navigate to the Project Directory
+
+```bash
+cd S1_FSWD_LAB1_2500040270
+```
+
+### Step 3: Install Dependencies
+
+```bash
+npm install
+```
+
+### Step 4: Start the Development Server
+
+```bash
+npm run dev
+```
+
+### Step 5: Open the Application
+
+Open the local URL displayed in your terminal, usually:
+
+```text
+http://localhost:5173/
+```
+
+## 🚌 Sample Bus Information
+
+| Bus Number | Route | Driver Name | Departure Time |
+|---|---|---|---|
+| BUS-101 | Vijayawada → Guntur | Ravi Kumar | 08:30 AM |
+| BUS-102 | Vijayawada → Tenali | Suresh Reddy | 09:00 AM |
+| BUS-103 | Guntur → Amaravati | Kiran Kumar | 10:15 AM |
+| BUS-104 | Vijayawada → Hyderabad | Prasad Rao | 11:30 AM |
+
+*The information above is sample data for demonstration purposes.*
+
+## 🚀 Future Enhancements
+
+- Add and update bus information through a form.
+- Integrate a database for persistent storage.
+- Add driver and administrator login functionality.
+- Display live bus locations using GPS.
+- Add passenger booking functionality.
+- Deploy the application online.
+
+## 👨‍💻 Author
+
+**Sathwik Kumar**
+
+GitHub: [simply-sathwik](https://github.com/simply-sathwik)
+
+## 📄 License
+
+This project was developed for educational purposes as part of a Full Stack Web Development laboratory exercise.
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository!
