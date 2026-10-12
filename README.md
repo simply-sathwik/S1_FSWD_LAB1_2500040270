@@ -1,12 +1,12 @@
-# 🚌 S1_FSWD_LAB1_2500040270 — Bus Information System
+S1_FSWD_LAB1_2500040270 — Bus Information System
 
-## 📌 Project Overview
+Project Overview
 
 The **Bus Information System** is a React-based web application developed to display and manage bus schedule information. It provides users with a simple interface to view bus numbers, routes, driver names, and departure timings.
 
 This project is developed as part of the Full Stack Web Development (FSWD) Lab.
 
-## 🎯 Objectives
+objectives
 
 - Display bus numbers and their routes.
 - Show driver names and departure timings.
@@ -14,16 +14,16 @@ This project is developed as part of the Full Stack Web Development (FSWD) Lab.
 - Implement bus search functionality.
 - Practice frontend development using React.
 
-## ✨ Features
+ Features
 
-- 🚌 **Bus Information:** Displays bus numbers and routes.
-- 👨‍✈️ **Driver Details:** Shows the names of assigned drivers.
-- 🕒 **Departure Schedule:** Displays scheduled departure times.
-- 🔍 **Search Functionality:** Search buses by bus number, route, or driver name.
-- 📱 **Responsive Design:** Adapts to different screen sizes.
-- ⚡ **Fast Development:** Uses Vite for a fast development experience.
+- **Bus Information:** Displays bus numbers and routes.
+- **Driver Details:** Shows the names of assigned drivers.
+- **Departure Schedule:** Displays scheduled departure times.
+ **Search Functionality:** Search buses by bus number, route, or driver name.
+- **Responsive Design:** Adapts to different screen sizes.
+- **Fast Development:** Uses Vite for a fast development experience.
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 - React.js
 - JavaScript
@@ -32,7 +32,7 @@ This project is developed as part of the Full Stack Web Development (FSWD) Lab.
 - Vite
 - Git and GitHub
 
-## 📂 Project Structure
+ Project Structure
 
 ```text
 S1_FSWD_LAB1_2500040270/
@@ -52,11 +52,11 @@ S1_FSWD_LAB1_2500040270/
 
 *Note: The filenames shown above may differ slightly depending on your project setup.*
 
-## ⚙️ Installation and Setup
+ Installation and Setup
 
 Follow these steps to run the project locally.
 
-### Prerequisites
+ Prerequisites
 
 Install the following software:
 
@@ -64,31 +64,31 @@ Install the following software:
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Git](https://git-scm.com/)
 
-### Step 1: Clone the Repository
+Step 1: Clone the Repository
 
 ```bash
 git clone https://github.com/simply-sathwik/S1_FSWD_LAB1_2500040270.git
 ```
 
-### Step 2: Navigate to the Project Directory
+ Step 2: Navigate to the Project Directory
 
 ```bash
 cd S1_FSWD_LAB1_2500040270
 ```
 
-### Step 3: Install Dependencies
+Step 3: Install Dependencies
 
 ```bash
 npm install
 ```
 
-### Step 4: Start the Development Server
+ Step 4: Start the Development Server
 
 ```bash
 npm run dev
 ```
 
-### Step 5: Open the Application
+ Step 5: Open the Application
 
 Open the local URL displayed in your terminal, usually:
 
@@ -96,7 +96,7 @@ Open the local URL displayed in your terminal, usually:
 http://localhost:5173/
 ```
 
-## 🚌 Sample Bus Information
+ Sample Bus Information
 
 | Bus Number | Route | Driver Name | Departure Time |
 |---|---|---|---|
@@ -107,7 +107,7 @@ http://localhost:5173/
 
 *The information above is sample data for demonstration purposes.*
 
-## 🚀 Future Enhancements
+Future Enhancements
 
 - Add and update bus information through a form.
 - Integrate a database for persistent storage.
@@ -116,16 +116,10 @@ http://localhost:5173/
 - Add passenger booking functionality.
 - Deploy the application online.
 
-## 👨‍💻 Author
+ Author
 
 **Sathwik Kumar**
 
 GitHub: [simply-sathwik](https://github.com/simply-sathwik)
 
-## 📄 License
 
-This project was developed for educational purposes as part of a Full Stack Web Development laboratory exercise.
-
----
-
-⭐ If you find this project useful, feel free to explore the repository!
